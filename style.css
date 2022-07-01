@@ -1,0 +1,29 @@
+body
+{
+    background-color: brown;
+    text-align: center;
+}
+.container{
+  background-color: mediumaquamarine;  
+}
+#app {
+    background-color: rgb(2, 128, 238);
+}
+
+#myCarousel
+{
+    background-color: rgba(211, 93, 57, 0.692);
+}
+
+#myCarousel img
+{
+    height: 300px;
+    margin-top: 35px;
+}
+
+.carousel-inner p
+{
+    margin-top: 15px;
+    color : rgb(54, 45, 45);
+    font-size: 20px;
+}
